@@ -13,3 +13,4 @@
 *.jar filter=lfs diff=lfs merge=lfs -text
 *.uexp filter=lfs diff=lfs merge=lfs -text
 *.ucas filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
