@@ -1,0 +1,13 @@
+To Install VR_ReactionGame:
+
+Connect Oculus Quest via USB-C cable to your computer and run Meta Quest Link App and verify your connection.
+
+Run Uninstall_VR_ReactionGame-Android-Shipping-arm64.dat file to Uninstall any previous version.
+
+Lastly Run Install_VR_ReactionGame-Android-Shipping-arm64.bat file to Install the most recent version of the app.
+
+Wait until app installs and bat file closes automatically.
+
+Launch Newly Installed App on Oculus Quest located on the bottom.
+* if app is not there check open library and on the right click unknown apps icon and app should be there
+
